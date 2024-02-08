@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Getting started
+Bio
 ======
 Suleiman is ....
 

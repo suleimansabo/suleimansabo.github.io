@@ -2,18 +2,24 @@
   main:
     - title: "CV"
       url: /files/Suleiman.pdf
+
+    - title: "Awards & Honors"
+      url: /awards/
+
+    - title: "Publications"
+      url: /publications/
+      
     #- title: "Portfolio"
      # url: /portfolio/
     #- title: "Awards & Honours"
     #  url: /talks
     # Uncomment below sections as needed
-    - title: "Publications"
-      url: /publications/
+ 
     # - title: "Talks"
     #   url: /talks/
-    - title: "Teaching"
-      url: /teaching/
-    - title: "Blog Posts"
-      url: /year-archive/
+    #- title: "Teaching"
+     # url: /teaching/
+    #- title: "Blog Posts"
+     # url: /year-archive/
     # - title: "Guide"
     #   url: /markdown/

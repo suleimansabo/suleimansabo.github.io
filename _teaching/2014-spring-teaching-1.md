@@ -8,8 +8,14 @@ date: 2014-01-01
 location: "City, Country"
 --- -->
 
-## News
-- **2023-Sept**: Excited to have started a Master’s program at Newcastle University.
-- **2023-July**: Thrilled to have been granted the PTDF scholarship [PTDF](https://scholarship.ptdf.gov.ng/).
-- **2023-June**: Proud to announce that I have graduated with a degree in Computer Science (Software Engineering) from Newcastle University.
 
+This is a description of a teaching experience. You can use markdown like any other post.
+
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======

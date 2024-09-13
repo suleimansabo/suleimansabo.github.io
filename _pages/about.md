@@ -13,7 +13,7 @@ Suleiman is pursuing a Master's degree program in Cyber Security, with a particu
 This educational background has provided him with a solid base for exploring the intricate aspects of cyber security.
 
 ## News
-
+- **2024-May**: I am thrilled to announce that my travel grant application to attend the [CISPA Summer School 2024](https://cispa.de/summer-school-usable) on Usable Security in Saarbrücken, Germany, has been accepted.
 - **2023-Sept**: Excited to have started a Master’s program at Newcastle University.
-- **2023-July**: Thrilled to have been granted the PTDF scholarship [PTDF](https://scholarship.ptdf.gov.ng/).
+- **2023-July**: Thrilled to have been granted the [PTDF](https://scholarship.ptdf.gov.ng/) scholarship.  
 - **2023-June**: Proud to announce that I have graduated with a degree in Computer Science (Software Engineering) from Newcastle University.

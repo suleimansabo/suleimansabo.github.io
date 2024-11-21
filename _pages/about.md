@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Suleiman is pursuing a Master's degree program in Cyber Security, with a particular emphasis on computer security, at Newcastle University. His academic journey has been marked by excellence; he graduated with first-class honours in Computer Science, specializing in Software Engineering, from Newcastle University in the United Kingdom.
+I recently finished my Master’s degree in Cyber Security with distinction at Newcastle University, where I focused on computer security. Before that, I graduated with first-class honours in Computer Science, specializing in Software Engineering, also at Newcastle.
 
-This educational background has provided him with a solid base for exploring the intricate aspects of cyber security.
+Along the way, I’ve developed a strong interest in cyber-physical systems, which has become a key focus of my research and something I’m really passionate about exploring further. These experiences have given me a solid foundation and a real enthusiasm for tackling the challenges in cyber security.
 
 ## News
 - **2024-May**: I am thrilled to announce that my travel grant application to attend the [CISPA Summer School 2024](https://cispa.de/summer-school-usable) on Usable Security in Saarbrücken, Germany, has been accepted.

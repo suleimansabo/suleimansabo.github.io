@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Suleiman Sabo Muhammad"
+  name             : &name "Suleiman Sabo Muhammad"
   avatar           : "Suleiman.jpg"
   bio              : "Anything tech related"
   location         : "Newcastle Upon Tyne, UK"

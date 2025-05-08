@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm **Suleiman Sabo**, a PhD researcher in **Cyber-Physical Systems (CPS) Security** at **Newcastle University**, where I’m part of the [Secure and Resilient Systems (SRS) research group](https://www.ncl.ac.uk/computing/research/srs/). My work focuses on the intersection of artificial intelligence and system security, particularly the real-time detection and classification of anomalies in industrial CPS environments.
+I am a PhD researcher in Cyber-Physical Systems (CPS) Security at Newcastle University, where I’m part of the [Secure and Resilient Systems (SRS) research group](https://www.ncl.ac.uk/computing/research/srs/). My work focuses on the intersection of artificial intelligence and system security, particularly the real-time detection and classification of anomalies in industrial CPS environments.
 
-I previously earned a **Distinction in MSc Cyber Security** and a **First-Class Honours in BSc Computer Science (Software Engineering)** from Newcastle University. My Master’s dissertation evaluated component-level versus system-level risk assessment strategies in CPS using the SWaT testbed and threat modeling techniques. My undergraduate research explored the use of digital signatures to address challenges related to **trust, usability, and accessibility in Nigeria's electronic voting systems**.
+I earned a Distinction in MSc Cyber Security and a First-Class Honours in BSc Computer Science (Software Engineering)** from Newcastle University. My Master’s dissertation evaluated component-level versus system-level risk assessment strategies in CPS using the SWaT testbed and threat modeling techniques. My undergraduate research explored the use of digital signatures to address challenges related to trust, usability, and accessibility in Nigeria's electronic voting systems.
 
 Currently, I’m exploring:
 - AI-driven anomaly classification in CPS

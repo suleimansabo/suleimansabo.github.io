@@ -23,7 +23,7 @@ Currently, I’m exploring:
 </div>
 
 ## News
-- **2025-Feb**: Began my **PhD in Cyber-Physical Systems Security** at [Newcastle University](https://www.ncl.ac.uk/)
+- **2025-Feb**: Began my PhD journey at [Newcastle University](https://www.ncl.ac.uk/)
 - **2024-Nov**: Proud to announce that I have been awarded the [Sage](https://www.sage.com/en-gb/company/about-sage/the-sage/) and School Prize for the Best Overall Performance by an MSc Cyber Security student in the School of Computing at [Newcastle University](https://www.ncl.ac.uk/).
 - **2024-May**: I am thrilled to announce that my travel grant application to attend the [CISPA Summer School 2024](https://cispa.de/summer-school-usable) on Usable Security in Saarbrücken, Germany, has been accepted.
 - **2023-Sept**: Excited to have started a Master’s program at Newcastle University.

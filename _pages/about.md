@@ -10,7 +10,7 @@ redirect_from:
 
 <div align="justify">
 
-<p>I am a PhD researcher in Cyber-Physical Systems (CPS) Security at <a href=https://www.ncl.ac.uk/"> Newcastle University </a>,where I’m part of the <a href="https://www.ncl.ac.uk/computing/research/srs/">Secure and Resilient Systems (SRS) research group</a>. My work focuses on the intersection of Artificial Intelligence and system security, particularly the real-time detection and classification of anomalies in industrial CPS environments.</p>
+<p>I am a PhD researcher in Cyber-Physical Systems (CPS) Security at <a href="https://www.ncl.ac.uk/">Newcastle University</a>, where I’m part of the <a href="https://www.ncl.ac.uk/computing/research/srs/">Secure and Resilient Systems (SRS) research group</a>. My work focuses on the intersection of Artificial Intelligence and system security, particularly the real-time detection and classification of anomalies in industrial CPS environments.</p>
 
 <p>I earned a Distinction in MSc Cyber Security and a First-Class Honours in BSc Computer Science (Software Engineering) from Newcastle University. My Master’s dissertation evaluated component-level versus system-level risk assessment strategies in CPS using the SWaT testbed and threat modeling techniques. My undergraduate research explored the use of digital signatures to address challenges related to trust, usability, and accessibility in Nigeria's electronic voting systems.</p>
 

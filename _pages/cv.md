@@ -53,7 +53,7 @@ Teaching
 
 Awards & Funding
 ======
-* **NCL+ Award** (2026) – Awarded by Newcastle University Careers Service for outstanding extracurricular engagement and professional development
+* **NCL&#43; Award** (2026) – Awarded by Newcastle University Careers Service for outstanding extracurricular engagement and professional development
 * **Travel Grant** – CISPA Summer School on Usable Security, Saarbrücken, Germany (2024)
 * **Sage & School Prize** – Best Overall Performance, MSc Cyber Security, Newcastle University (2024)
 * **PTDF Scholarship** – Petroleum Technology Development Fund, Nigeria (2023)

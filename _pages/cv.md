@@ -33,24 +33,6 @@ Research Interests
 * Real-time threat attribution and behavior modeling
 * Model extraction and secure inference in distributed control environments
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Awards & Funding
 ======
 * **NCL&#43; Award** (2026) – Awarded by Newcastle University Careers Service for outstanding extracurricular engagement and professional development

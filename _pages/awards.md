@@ -8,6 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
+* 2026 Awarded the NCL&#43; Award by Newcastle University Careers Service for outstanding extracurricular engagement and professional development.
 * 2024 Awarded the Sage and School prize for best overall performance by an MSc Cyber Security student in the School  of Computing.
 * 2023 Petroleum Technology and Development Fund Scholarship Funding for a master’s degree at Newcastle University.
     * Award body: Petroleum Technology and Development Fund (PTDF)
